@@ -7,7 +7,7 @@ Latest PyTorch version provides more flexiblity and control over the code compar
 `Python 3.x` is required to run this. However, running on a Google Colab on a GPU Runtime is highly recommeded.
 
 ## Architecture
-Please see the Notebook cell titled `Architecture` to know the  architecture used for this task.
+Please see the Notebook cell titled **Architecture** to know the  architecture used for this task.
 
 ## Result
 We have achieved aroung 99.40 accuracy using the above architecture.
