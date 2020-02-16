@@ -11,3 +11,9 @@ Please see the Notebook cell titled **Architecture** to know the  architecture u
 
 ## Result
 We have achieved aroung 99.40 accuracy using the above architecture.
+
+### Team
+- Amit Jaiswal
+- Bharath Kumar Bolla
+- Raman Shaw
+- Umesh Menon
