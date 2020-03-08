@@ -10,5 +10,6 @@ It uses a Global Average Pooling and one Fully Connected Layer.
 `Python 3.x` is required to run this. However, running on a Google Colab on a GPU Runtime is highly recommended.
 
 ## How to Run
-Please run the Notebook 'eva_session7_assignment.ipynb'
+Please run the Notebook 'eva_session7_assignment.ipynb' to see the architecture in the Notebook itself. 
+See 'eva_sesssion7.ipynb' for the modular method call.
 
