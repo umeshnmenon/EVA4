@@ -11,7 +11,7 @@ https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py
 Please run the Notebook 'S8-Assignment.ipynb'
 
 ## Results
-
+Ran 25 Epoch and Test accuracy is 87.5%
 
 ## Team
 Amit Jaiswal
