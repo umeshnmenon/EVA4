@@ -8,13 +8,14 @@ https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py
 `Python 3.x` is required to run this. However, running on a Google Colab on a GPU Runtime is highly recommended.
 
 ## How to Run
-Please run the Notebook 'S8-Assignment.ipynb'
+Please run the Notebook 'S8_Assignment.ipynb'
 
 ## Results
 Ran 25 Epoch and Test accuracy is 87.5%
 
 ## Team
-Amit Jaiswal
-Bharath Bolla Kumar
-Raman Shaw
-Umesh Menon
+
+- Amit Jaiswal
+- Bharath Bolla Kumar
+- Raman Shaw
+- Umesh Menon
