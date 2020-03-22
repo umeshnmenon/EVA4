@@ -20,17 +20,16 @@ class AlbuCompose:
         img = self.transforms(image=img)["image"]
         return img
 
-
 # Albumentations Transformations
 transform_train_albu = Compose([
     RandomCrop(height=32, width=32), #, always_apply=True
     HorizontalFlip(p=0.2),
-    VerticalFlip(p=0.1),
+    VerticalFlip(p=0.0),
     GaussianBlur(p=0.0),
-    Rotate(limit=15),
+    Rotate(limit=20),
     #ToTensor(),
     Normalize(mean=(0.4914, 0.4822, 0.4465), std=(0.2023, 0.1994, 0.2010), always_apply=True),
-    Cutout(num_holes=1, max_h_size=16, max_w_size=16, fill_value=[0.4914, 0.4822, 0.4465], p=0.25),
+    Cutout(num_holes=1, max_h_size=8, max_w_size=8, fill_value=[0.4914, 0.4822, 0.4465], p=0.3),
     ToTensorV2(always_apply=True)
 ])
 
