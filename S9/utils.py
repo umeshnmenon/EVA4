@@ -35,7 +35,7 @@ def get_device():
     return device
 
 
-def plot_cam(img, mean, sd):
+def plot_cam(img, mean, sd, device):
     """
     Plots the cam
     """
