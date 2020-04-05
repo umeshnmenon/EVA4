@@ -8,7 +8,7 @@ https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py
 `Python 3.x` is required to run this. However, running on a Google Colab on a GPU Runtime is highly recommended.
 
 ## How to Run
-Please run the Notebook 'S9-Assignment.ipynb'
+Please run the Notebook 'S10-Assignment.ipynb'
 
 ## Results
 
